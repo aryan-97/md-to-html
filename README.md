@@ -1,2 +1,1 @@
-# static-site-generator
-Static site generator in python
+# md-to-html
